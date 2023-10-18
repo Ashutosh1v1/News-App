@@ -1,0 +1,20 @@
+.background{
+    background-color: #713fd0;
+
+}
+.card-title{
+    height: 110px;
+}
+.date{
+    font-size: 14px;
+}
+.date1{
+    font-size: 18px;
+}
+.card-text{
+    height: 220px;
+}
+.btn:hover{
+    background-color: #672ad9;
+    color: white;
+}
